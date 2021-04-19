@@ -10,6 +10,6 @@
    used for: Pushing changes to remote branch
    cmd: git push origin master
    explaination: 
-        i. origin : local active branch name
+        i.  origin: local active branch name
         ii. master: Remote branch name
         iii. 
