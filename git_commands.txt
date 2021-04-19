@@ -1,0 +1,14 @@
+1. Git Add:
+   used for: Adding files to Staging Area
+   cmd: git add <file_name(s) OR "." for ALL>
+
+2. Git Commit:
+   used for: Commiting files with proper message (-m)
+   cmd: git commit -m "<Your message>"
+
+3. Git Push:
+   used for: Pushing changes to remote branch
+   cmd: git push origin master
+   explaination: 
+        i. origin : local active branch name
+        ii. master: Remote branch name
