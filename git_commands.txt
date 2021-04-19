@@ -12,4 +12,4 @@
    explaination: 
         i.  origin: local active branch name
         ii. master: Remote branch name
-        iii. 
+        iii. UPDATED BY VINAYAK NOW
