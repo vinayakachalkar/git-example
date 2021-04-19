@@ -12,6 +12,7 @@
    explaination: 
         i.  origin: local active branch name
         ii. master: Remote branch name
+
 4. Git diff:
    used for: to check file difference
    cmd: git diff <File name>
@@ -19,3 +20,5 @@
 5. Git fetch:
     used for: to see new branched which are created in remote
     cmd: git fetch
+
+6. 
