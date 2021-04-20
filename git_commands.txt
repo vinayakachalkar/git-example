@@ -21,4 +21,6 @@
     used for: to see new branched which are created in remote
     cmd: git fetch
 
-6. 
+6. Git Status
+   used for: To see the files list that have changed
+   cmd: git status
